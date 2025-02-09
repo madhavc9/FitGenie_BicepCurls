@@ -11,16 +11,15 @@
     <a href="https://drive.google.com/file/d/1tP3LpOuq9oVjJ5IHTt3EekR550bA1q01/view?usp=sharing" target="_blank"><strong>Video Demonstration »</strong></a><br>
   </p>
     <h2>📖 Table of Contents</h2>
-    <button class="toggle-btn" onclick="toggleTOC()">Show/Hide Table of Contents</button>
+    <details>
     <ul id="toc" class="hidden">
         <li><a href="#about">📌 About The Project</a></li>
-        <li><a href="#built">🛠️ Built With</a></li>
         <li><a href="#setup">🚀 Getting Started</a></li>
         <li><a href="#features">✨ Features & Objectives</a></li>
         <li><a href="#screenshots">📸 Check Captured Screenshots</a></li>
         <li><a href="#enhancements">🚀 Future Enhancements</a></li>
-        <li><a href="#contact">📞 Contact</a></li>
     </ul>
+    </details>
     <details id="about">
         <summary>📌 About The Project</summary>
         <p>FitGenie is an AI-driven fitness platform designed to personalize workout routines and nutrition plans based on user preferences, health data, and goals.</p>
