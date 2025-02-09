@@ -23,16 +23,7 @@
         <summary>📌 About The Project</summary>
         <p>FitGenie is an AI-driven fitness platform designed to personalize workout routines and nutrition plans based on user preferences, health data, and goals.</p>
     </details>
-    <details id="built">
-        <summary>🛠️ Built With</summary>
-        <ul>
-            <li><strong>Frontend:</strong> React.js, Tailwind CSS</li>
-            <li><strong>Backend:</strong> Node.js, Express.js</li>
-            <li><strong>Database:</strong> MongoDB</li>
-            <li><strong>Machine Learning:</strong> Python, TensorFlow</li>
-            <li><strong>APIs:</strong> Fitness & Nutrition APIs</li>
-        </ul>
-    </details>
+<hr>
     <details id="setup">
         <summary>🚀 Getting Started</summary>
         <ol>
@@ -50,6 +41,7 @@
             </li>
         </ol>
     </details>
+    <hr>
     <details id="features">
         <summary>✨ Features & Objectives</summary>
         <ul>
@@ -59,15 +51,13 @@
             <li>User-friendly and interactive dashboard 🎛️</li>
         </ul>
     </details>
+    <hr>
     <details id="screenshots">
         <summary>📸 Check Captured Screenshots</summary>
         <p>Home Page:</p>
         <img src="path/to/home.png" alt="Home Page" width="100%">
-        <p>Dashboard:</p>
-        <img src="path/to/dashboard.png" alt="Dashboard" width="100%">
-        <p>Workout Plan:</p>
-        <img src="path/to/workout.png" alt="Workout Plan" width="100%">
     </details>
+    <hr>
     <details id="enhancements">
         <summary>🚀 Future Enhancements</summary>
         <ul>
@@ -76,13 +66,14 @@
             <li>Enhanced gamification features for motivation 🏆</li>
         </ul>
     </details>
+    <hr>
     <details id="contact">
         <summary>📞 Contact</summary>
         <p>For any inquiries, feel free to reach out:</p>
         <ul>
             <li><strong>Email:</strong> your.email@example.com</li>
-            <li><strong>GitHub:</strong> <a href="https://github.com/yourusername">yourusername</a></li>
-            <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yourprofile">yourprofile</a></li>
+            <li><strong>GitHub:</strong> <a href="https://github.com/madhavc9">madhavc9</a></li>
+            <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/madhav-choudhary-015124216/">Madhav's LinkedIn</a></li>
         </ul>
     </details>
 </div>
