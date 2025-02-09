@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
 <body>
 
 <div class="container">
     <h1>🏋️‍♂️ FitGenie - Your Smart Fitness Companion</h1>
     <p>Welcome to <strong>FitGenie</strong>, an AI-powered fitness assistant designed to provide personalized workout plans, nutrition guidance, and progress tracking.</p>
+      <p align="right">
+    <a href="https://drive.google.com/file/d/1qYvdLZSJQP73nDsnra9D96X2YBksIoWI/view?usp=sharing" target="_blank"><strong>Explore the documentation »</strong></a><br>
+    <a href="https://drive.google.com/file/d/1tP3LpOuq9oVjJ5IHTt3EekR550bA1q01/view?usp=sharing" target="_blank"><strong>Video Demonstration »</strong></a><br>
+    <a href="https://proctorly-web1.netlify.app" target="_blank"><strong>Live Link »</strong></a>
+  </p>
     <h2>📖 Table of Contents</h2>
-    <ul>
+    <button class="toggle-btn" onclick="toggleTOC()">Show/Hide Table of Contents</button>
+    <ul id="toc" class="hidden">
         <li><a href="#about">📌 About The Project</a></li>
         <li><a href="#built">🛠️ Built With</a></li>
         <li><a href="#setup">🚀 Getting Started</a></li>
@@ -23,7 +25,7 @@
         <summary>📌 About The Project</summary>
         <p>FitGenie is an AI-driven fitness platform designed to personalize workout routines and nutrition plans based on user preferences, health data, and goals.</p>
     </details>
-<hr>
+    <hr>
     <details id="setup">
         <summary>🚀 Getting Started</summary>
         <ol>
@@ -78,5 +80,22 @@
     </details>
 </div>
 
+<script>
+    function toggleTOC() {
+        var toc = document.getElementById("toc");
+        if (toc.classList.contains("hidden")) {
+            toc.classList.remove("hidden");
+        } else {
+            toc.classList.add("hidden");
+        }
+    }
+</script>
+
 </body>
 </html>
+
+
+## Author : MADHAV
+
+Feel free to reach out for questions or contributions!
+Happy Coding ! 🚀
