@@ -10,6 +10,7 @@
     <a href="https://drive.google.com/file/d/1qYvdLZSJQP73nDsnra9D96X2YBksIoWI/view?usp=sharing" target="_blank"><strong>Explore the documentation »</strong></a><br>
     <a href="https://drive.google.com/file/d/1tP3LpOuq9oVjJ5IHTt3EekR550bA1q01/view?usp=sharing" target="_blank"><strong>Video Demonstration »</strong></a><br>
   </p>
+<hr>
     <details>
     <summary>📖 Table of Contents</summary>
     <ul id="toc" class="hidden">
@@ -20,6 +21,7 @@
         <li><a href="#enhancements">🚀 Future Enhancements</a></li>
     </ul>
     </details>
+    <hr>
     <details id="about">
         <summary>📌 About The Project</summary>
         <p>FitGenie is an AI-driven fitness platform designed to personalize workout routines and nutrition plans based on user preferences, health data, and goals.</p>
