@@ -9,7 +9,6 @@
       <p align="right">
     <a href="https://drive.google.com/file/d/1qYvdLZSJQP73nDsnra9D96X2YBksIoWI/view?usp=sharing" target="_blank"><strong>Explore the documentation »</strong></a><br>
     <a href="https://drive.google.com/file/d/1tP3LpOuq9oVjJ5IHTt3EekR550bA1q01/view?usp=sharing" target="_blank"><strong>Video Demonstration »</strong></a><br>
-    <a href="https://proctorly-web1.netlify.app" target="_blank"><strong>Live Link »</strong></a>
   </p>
     <h2>📖 Table of Contents</h2>
     <button class="toggle-btn" onclick="toggleTOC()">Show/Hide Table of Contents</button>
