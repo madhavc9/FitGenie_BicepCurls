@@ -56,8 +56,8 @@
     <hr>
     <details id="screenshots">
         <summary>📸 Check Captured Screenshots</summary>
-        <p>Home Page:</p>
-        <img src="path/to/home.png" alt="Home Page" width="100%">
+        <p>Below is an example screenshot of the Hand Sign Detection system in action:</p>
+        <img src="ss_logo.png" alt="Home Page" width="100%">
     </details>
     <hr>
     <details id="enhancements">
