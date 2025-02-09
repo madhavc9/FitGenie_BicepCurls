@@ -69,28 +69,7 @@
         </ul>
     </details>
     <hr>
-    <details id="contact">
-        <summary>📞 Contact</summary>
-        <p>For any inquiries, feel free to reach out:</p>
-        <ul>
-            <li><strong>Email:</strong> your.email@example.com</li>
-            <li><strong>GitHub:</strong> <a href="https://github.com/madhavc9">madhavc9</a></li>
-            <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/madhav-choudhary-015124216/">Madhav's LinkedIn</a></li>
-        </ul>
-    </details>
 </div>
-
-<script>
-    function toggleTOC() {
-        var toc = document.getElementById("toc");
-        if (toc.classList.contains("hidden")) {
-            toc.classList.remove("hidden");
-        } else {
-            toc.classList.add("hidden");
-        }
-    }
-</script>
-
 </body>
 </html>
 
