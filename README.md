@@ -77,7 +77,9 @@
 </html>
 
 
+<div align="center">
 ## Author : MADHAV
 
 Feel free to reach out for questions or contributions!
 Happy Coding ! 🚀
+</div>
