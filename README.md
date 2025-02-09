@@ -4,50 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FitGenie - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f9f9f9;
-            margin: 20px;
-            padding: 20px;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-        }
-        summary {
-            font-size: 1.2em;
-            font-weight: bold;
-            cursor: pointer;
-            padding: 10px;
-            background: #3498db;
-            color: white;
-            border-radius: 5px;
-            margin-bottom: 5px;
-        }
-        details {
-            background: #ecf0f1;
-            padding: 10px;
-            border-radius: 5px;
-            margin-bottom: 10px;
-        }
-    </style>
 </head>
 <body>
 
 <div class="container">
-
     <h1>🏋️‍♂️ FitGenie - Your Smart Fitness Companion</h1>
     <p>Welcome to <strong>FitGenie</strong>, an AI-powered fitness assistant designed to provide personalized workout plans, nutrition guidance, and progress tracking.</p>
-
     <h2>📖 Table of Contents</h2>
     <ul>
         <li><a href="#about">📌 About The Project</a></li>
@@ -58,12 +20,10 @@
         <li><a href="#enhancements">🚀 Future Enhancements</a></li>
         <li><a href="#contact">📞 Contact</a></li>
     </ul>
-
     <details id="about">
         <summary>📌 About The Project</summary>
         <p>FitGenie is an AI-driven fitness platform designed to personalize workout routines and nutrition plans based on user preferences, health data, and goals.</p>
     </details>
-
     <details id="built">
         <summary>🛠️ Built With</summary>
         <ul>
@@ -74,7 +34,6 @@
             <li><strong>APIs:</strong> Fitness & Nutrition APIs</li>
         </ul>
     </details>
-
     <details id="setup">
         <summary>🚀 Getting Started</summary>
         <ol>
@@ -92,7 +51,6 @@
             </li>
         </ol>
     </details>
-
     <details id="features">
         <summary>✨ Features & Objectives</summary>
         <ul>
@@ -102,7 +60,6 @@
             <li>User-friendly and interactive dashboard 🎛️</li>
         </ul>
     </details>
-
     <details id="screenshots">
         <summary>📸 Check Captured Screenshots</summary>
         <p>Home Page:</p>
@@ -112,7 +69,6 @@
         <p>Workout Plan:</p>
         <img src="path/to/workout.png" alt="Workout Plan" width="100%">
     </details>
-
     <details id="enhancements">
         <summary>🚀 Future Enhancements</summary>
         <ul>
@@ -121,7 +77,6 @@
             <li>Enhanced gamification features for motivation 🏆</li>
         </ul>
     </details>
-
     <details id="contact">
         <summary>📞 Contact</summary>
         <p>For any inquiries, feel free to reach out:</p>
@@ -131,7 +86,6 @@
             <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yourprofile">yourprofile</a></li>
         </ul>
     </details>
-
 </div>
 
 </body>
