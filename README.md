@@ -3,10 +3,10 @@
 <body>
 
 <div class="container">
-    <h1>🏋️‍♂️ FitGenie - Your Smart Fitness Companion</h1>
-    <img src="/fitgenie_logo.png" alt="Proctorly Logo" width="600">
-    <p>Welcome to <strong>FitGenie</strong>, an AI-powered fitness assistant designed to provide personalized workout plans, nutrition guidance, and progress tracking.</p>
-      <p align="left">
+    <h1 align="center" >🏋️‍♂️ FitGenie - Your Smart Fitness Companion</h1>
+    <img align="center "src="/fitgenie_logo.png" alt="Proctorly Logo" width="600">
+    <p align="center ">Welcome to <strong>FitGenie</strong>, an AI-powered fitness assistant designed to provide personalized workout plans, nutrition guidance, and progress tracking.</p>
+      <p align="center">
     <a href="https://drive.google.com/file/d/1qYvdLZSJQP73nDsnra9D96X2YBksIoWI/view?usp=sharing" target="_blank"><strong>Explore the documentation »</strong></a><br>
     <a href="https://drive.google.com/file/d/1tP3LpOuq9oVjJ5IHTt3EekR550bA1q01/view?usp=sharing" target="_blank"><strong>Video Demonstration »</strong></a><br>
   </p>
